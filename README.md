@@ -45,12 +45,12 @@ Run `run.py` and set the path to the desired image at the top of the script. The
 
 Final results and visualizations will be displayed and saved in the output directory.
 
-## 📷 Results
-See `Report.pdf, the expected output to be provided to the company is:
+## 📷 Results  
+See `Report.pdf`, the expected output to be provided to the company is:
 
 | Raw image (+ allignment and cropping) | Expected visual output |
 |--------------------------|------------------------|
-| ![](Project\immagini\aligned_cropped\IMG_9_processed.png) | ![](Project\immagini\expected_result\result.png) |
+| ![](Project/immagini/aligned_cropped/IMG_9_processed.png) | ![](Project/immagini/expected_result/result.png) |
 
 ## 🛠️ Technologies Used
 
