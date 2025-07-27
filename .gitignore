@@ -1,0 +1,11 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Editor config folders
+.vscode/
+.idea/
+
+# System files (Windows & macOS)
+.DS_Store
+Thumbs.db
